@@ -1,10 +1,10 @@
 
 # PLAYER VS MONSTER DICE TEXT RPG GAME
 
-## Done using Java.
+### Done using Java.
 
-## THE JAVA FILES ARE IN PACKAGE Phase2.
+### THE JAVA FILES ARE IN PACKAGE Phase2.
 
-## weapons.csv FILE CONTAINS INFORMATION ON WEAPONS.
+### weapons.csv FILE CONTAINS INFORMATION ON WEAPONS.
 
-## Application.java IS THE MAIN FILE WITH THE main() METHOD.
+### Application.java IS THE MAIN FILE WITH THE main() METHOD.
